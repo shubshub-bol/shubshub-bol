@@ -31,7 +31,7 @@
 [![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SY247792@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-yadav-ds/)
 [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Live_Demo-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://thoughfulchat.streamlit.app/)
-[![Resume](https://img.shields.io/badge/📋_Resume-Download-F7931E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([https://drive.google.com/file/d/1D8TiCVywBAIEQyVce0X1ENVHt6-b5EoM/view?usp=drive_link])
+[![Resume](https://img.shields.io/badge/📋_Resume-Download-F7931E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1D8TiCVywBAIEQyVce0X1ENVHt6-b5EoM/view?usp=drive_link)
 </td>
 </tr>
 </table>
