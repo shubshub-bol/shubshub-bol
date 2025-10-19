@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SHUBHAM%20YADAV&fontSize=50&fontColor=000000&animation=twinkling&fontAlignY=32&desc=GEN%20AI%20ENGINEER%20%7C%20MACHINE%20LEARNING%20SPECIALIST%20%7C%20DATA%20SCIENTIST&descAlignY=51&descAlign=50" />
 
 <!-- Matrix Rain Effect -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" width="100%" />
 
 <!-- Matrix Rain Effect -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
