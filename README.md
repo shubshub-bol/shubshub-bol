@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SHUBHAM%20YADAV&fontSize=50&fontColor=000000&animation=twinkling&fontAlignY=32&desc=GEN%20AI%20ENGINEER%20%7C%20MACHINE%20LEARNING%20SPECIALIST%20%7C%20DATA%20SCIENTIST&descAlignY=51&descAlign=50" />
 
 <!-- Matrix Rain Effect -->
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- Matrix Rain Effect -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -23,7 +23,7 @@
 <tr>
 <td align="center" width="50%">
 
-<img src="" width="300" height="300" alt="AI Robot"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFoYjNmdm00Y2E5eXJnemxmb2VtbDdrcHVlcDh5cmlhZ2M4dG0yMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="300" height="300" alt="AI Robot"/>
 
 
 ### 🚀 **QUICK ACCESS**
