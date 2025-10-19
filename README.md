@@ -23,7 +23,7 @@
 <tr>
 <td align="center" width="50%">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFoYjNmdm00Y2E5eXJnemxmb2VtbDdrcHVlcDh5cmlhZ2M4dG0yMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="300" height="300" alt="AI Robot"/>
+<img src="" width="300" height="300" alt="AI Robot"/>
 
 
 ### 🚀 **QUICK ACCESS**
