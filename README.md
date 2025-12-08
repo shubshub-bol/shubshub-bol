@@ -41,21 +41,5 @@
 
 </div>
 
----
-##  **GITHUB INTELLIGENCE DASHBOARD**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubshub-bol&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubshub-bol&theme=synthwave&hide_border=true&background=0D1117&stroke=00FF41&ring=FF6B35&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=FF6B35" />
-
-</div>
 
 ---
